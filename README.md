@@ -1,4 +1,4 @@
-# RosmarReyes
+# Rosmar Reyes     
 
 Hola, Soy Rosmar Reyes una estudiante de Programacion apasionada por este mundo 
-![istockphoto-1169395112-1024x1024](https://user-images.githubusercontent.com/96752409/166171582-714a6a76-3c8f-41c7-91cc-3955f7f21d6f.jpg)
+![Beneficios-de-contratar-empresa-desarrollo-web](https://user-images.githubusercontent.com/96752409/166172582-6275d1b3-84d6-4af3-9ed2-557e1ec6f03b.jpg) 
